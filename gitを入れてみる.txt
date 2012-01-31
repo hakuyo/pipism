@@ -10,6 +10,8 @@ http://www.koikikukan.com/archives/2010/08/04-235555.php
 日本Symfonyユーザー会の解説
 http://www.symfony.gr.jp/git/github-howto
 
+http://blog.glasses-factory.net/2011/04/14/github
+
 
 からDLが楽らしいので、行ってみたらインテル入ってないとダメみたいじゃん…
 URLをいじってみたら、旧verが出て来たので、git-1.5.4.5-osx-leopard-ppc.mpkg.dmg 
